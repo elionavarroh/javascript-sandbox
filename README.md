@@ -1,4 +1,4 @@
-# javascript-sandbox
+# module 2, type of data
 El ejercicio consta de lo siguiente:
 
 Tienes un grupo de 6 amigos y quieres invitarlos a cenar por tu cumpleaños.
